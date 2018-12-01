@@ -1,3 +1,5 @@
+package ru.stqa.prg.sandbox;
+
 public class MyFirstProgram{
 
 public static void main(String[] args){
